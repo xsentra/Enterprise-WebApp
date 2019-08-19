@@ -31,7 +31,7 @@
             ],
             "scripts": [
               "src/assets/vendors/global/vendors.bundle.js",
-              "src/assets/js/demo7/scripts.bundle.js"
+              "src/assets/js/scripts.bundle.js"
             ],
             "es5BrowserSupport": true
           },
