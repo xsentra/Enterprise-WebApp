@@ -109,11 +109,11 @@
             "custom": []
         },
         "demos": {
-            "demo7": {
+            "demo1": {
                 "base": {
                     "src": {
                         "styles": [
-                            "{$config.path.src}/sass/theme/demos/demo7/style-angular.scss"
+                            "{$config.path.src}/sass/theme/demos/demo1/style-angular.scss"
                         ],
                         "scripts": [
                             "{$config.path.src}/js/theme/core/util.js",
@@ -127,39 +127,39 @@
                         ]
                     },
                     "bundle": {
-                        "styles": "{$config.dist}/css/demo7/style.bundle.css",
-                        "scripts": "{$config.dist}/js/demo7/scripts.bundle.js"
+                        "styles": "{$config.dist}/css/demo1/style.bundle.css",
+                        "scripts": "{$config.dist}/js/demo1/scripts.bundle.js"
                     }
                 },
                 "skins": {
                     "header": {
                         "src": {
                             "styles": [
-                                "{$config.path.src}/sass/theme/demos/demo7/header/skins/**/*.scss"
+                                "{$config.path.src}/sass/theme/demos/demo1/header/skins/**/*.scss"
                             ]
                         },
                         "output": {
-                            "styles": "{$config.dist}/css/demo7/skins/header/"
+                            "styles": "{$config.dist}/css/demo1/skins/header/"
                         }
                     },
                     "brand": {
                         "src": {
                             "styles": [
-                                "{$config.path.src}/sass/theme/demos/demo7/brand/skins/**/*.scss"
+                                "{$config.path.src}/sass/theme/demos/demo1/brand/skins/**/*.scss"
                             ]
                         },
                         "output": {
-                            "styles": "{$config.dist}/css/demo7/skins/brand/"
+                            "styles": "{$config.dist}/css/demo1/skins/brand/"
                         }
                     },
                     "aside": {
                         "src": {
                             "styles": [
-                                "{$config.path.src}/sass/theme/demos/demo7/aside/skins/**/*.scss"
+                                "{$config.path.src}/sass/theme/demos/demo1/aside/skins/**/*.scss"
                             ]
                         },
                         "output": {
-                            "styles": "{$config.dist}/css/demo7/skins/aside/"
+                            "styles": "{$config.dist}/css/demo1/skins/aside/"
                         }
                     }
                 },
@@ -173,8 +173,8 @@
                         ]
                     },
                     "output": {
-                        "styles-by-demo": "{$config.dist}/css/demo7/pages/",
-                        "scripts": "{$config.dist}/js/demo7/pages/"
+                        "styles-by-demo": "{$config.dist}/css/demo1/pages/",
+                        "scripts": "{$config.dist}/js/demo1/pages/"
                     }
                 }
             },
@@ -474,11 +474,11 @@
                     }
                 }
             },
-            "demo70": {
+            "demo10": {
                 "base": {
                     "src": {
                         "styles": [
-                            "{$config.path.src}/sass/theme/demos/demo70/style-angular.scss"
+                            "{$config.path.src}/sass/theme/demos/demo10/style-angular.scss"
                         ],
                         "scripts": [
                             "{$config.path.src}/js/theme/core/util.js",
@@ -492,8 +492,8 @@
                         ]
                     },
                     "bundle": {
-                        "styles": "{$config.dist}/css/demo70/style.bundle.css",
-                        "scripts": "{$config.dist}/js/demo70/scripts.bundle.js"
+                        "styles": "{$config.dist}/css/demo10/style.bundle.css",
+                        "scripts": "{$config.dist}/js/demo10/scripts.bundle.js"
                     }
                 },
                 "pages": {
@@ -506,8 +506,8 @@
                         ]
                     },
                     "output": {
-                        "styles-by-demo": "{$config.dist}/css/demo70/pages/",
-                        "scripts": "{$config.dist}/js/demo70/pages/"
+                        "styles-by-demo": "{$config.dist}/css/demo10/pages/",
+                        "scripts": "{$config.dist}/js/demo10/pages/"
                     }
                 }
             }
