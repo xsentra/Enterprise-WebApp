@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c66be78-5b18-42c1-8fc3-44f93cd8e839" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/default/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/models/_base.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/models/_base.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/models/http-extentsions-model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/models/query-models/query-params.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/models/query-models/query-results.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/utils/http-utils.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/utils/intercept.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/utils/layout-utils.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/crud/utils/types-utils.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/content-animate.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/header.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/menu.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/offcanvas.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/scroll-top.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/sparkline-chart.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/sticky.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/tab-click-event.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/directives/toggle.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/models/datatable-item.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/models/external-code-example.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/models/layout-config.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/pipes/first-letter.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/pipes/get-object.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/pipes/join.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/pipes/safe.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/pipes/time-elapsed.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/server/fake-api/fake-api.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/server/fake-api/fake-db/cars.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/datatable.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/kt-dialog.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/layout-config.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/layout-ref.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/menu-aside.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/menu-config.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/menu-horizontal.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/page-config.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/splash-screen.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/subheader.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_base/layout/services/translation.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo7/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo7/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo7/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo70/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo70/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo70/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo2/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo2/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo2/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo3/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo3/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo3/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo4/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo4/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo4/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo5/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo5/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo5/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo6/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo6/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo6/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo7/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo7/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo7/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo8/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo8/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo8/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo9/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo9/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/demo9/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/i18n/ch.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/i18n/de.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/i18n/en.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/i18n/es.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/i18n/fr.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/_config/i18n/jp.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_actions/auth.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_actions/permission.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_actions/role.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_actions/user.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_data-sources/roles.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_data-sources/users.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_effects/auth.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_effects/permission.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_effects/role.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_effects/user.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_guards/auth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_guards/module.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_models/address.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_models/permission.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_models/role.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_models/social-networks.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_models/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_reducers/auth.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_reducers/permission.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_reducers/role.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_reducers/user.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_selectors/auth.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_selectors/permission.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_selectors/role.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_selectors/user.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_server/auth.data-context.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_server/permissions.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_server/roles.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_server/users.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_services/auth.service.fake.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_services/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/_services/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/auth-notice/auth-notice.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/auth-notice/auth-notice.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/auth/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/core.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_actions/customer.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_actions/product-remark.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_actions/product-specification.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_actions/product.actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_consts/specification.dictionary.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_data-sources/customers.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_data-sources/product-remarks.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_data-sources/product-specifications.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_data-sources/products.datasource.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_effects/customer.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_effects/product-remark.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_effects/product-specification.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_effects/product.effects.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_models/customer.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_models/product-remark.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_models/product-specification.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_models/product.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_reducers/customer.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_reducers/product-remark.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_reducers/product-specification.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_reducers/product.reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_selectors/customer.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_selectors/product-remark.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_selectors/product-specification.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_selectors/product.selectors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_server/_e-commerce.data-context.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_server/car-specifications.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_server/cars.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_server/customers.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_server/orders.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_server/remarks.table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/customers.service.fake.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/customers.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/orders.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/product-remarks.service.fake.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/product-remarks.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/product-specifications.service.fake.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/product-specifications.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/products.service.fake.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_services/products.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/e-commerce/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/core/reducers/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/customers/customer-edit/customer-edit.dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/customers/customer-edit/customer-edit.dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/customers/customers-list/customers-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/customers/customers-list/customers-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/e-commerce.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/e-commerce.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/e-commerce.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/orders/order-edit/order-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/orders/order-edit/order-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/orders/orders-list/orders-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/orders/orders-list/orders-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/_subs/remarks/remarks-list/remarks-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/_subs/remarks/remarks-list/remarks-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/_subs/specifications/specification-edit/specification-edit-dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/_subs/specifications/specification-edit/specification-edit-dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/_subs/specifications/specifications-list/specifications-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/_subs/specifications/specifications-list/specifications-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/product-edit/product-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/product-edit/product-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/products-list/products-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/e-commerce/products/products-list/products-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/mail/mail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/mail/mail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/apps/mail/mail.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/auth-notice/auth-notice.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/auth-notice/auth-notice.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/auth.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/auth.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/auth.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/auth.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/forgot-password/forgot-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/forgot-password/forgot-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/register/confirm-password.validator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/auth/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/button-toggle/button-toggle.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/button-toggle/button-toggle.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/button/button.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/button/button.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/chips/chips.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/chips/chips.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/icon/icon.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/icon/icon.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/progress-bar/progress-bar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/progress-bar/progress-bar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/progress-spinner/progress-spinner.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/progress-spinner/progress-spinner.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/ripples/ripples.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/buttons-and-indicators/ripples/ripples.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/data-table/material-table/material-table.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/data-table/material-table/material-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/data-table/paginator/paginator.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/data-table/paginator/paginator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/data-table/sort-header/sort-header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/data-table/sort-header/sort-header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/autocomplete/autocomplete.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/autocomplete/autocomplete.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/checkbox/checkbox.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/checkbox/checkbox.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/datepicker/datepicker.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/datepicker/datepicker.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/formfield/formfield.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/formfield/formfield.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/input/input.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/input/input.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/radiobutton/radiobutton.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/radiobutton/radiobutton.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/select/select.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/select/select.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/slider/slider.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/slider/slider.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/slidertoggle/slidertoggle.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/formcontrols/slidertoggle/slidertoggle.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/card/card.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/card/card.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/default-forms/default-forms.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/default-forms/default-forms.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/divider/divider.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/divider/divider.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/expansion-panel/expansion-panel.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/expansion-panel/expansion-panel.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/grid-list/grid-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/grid-list/grid-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/list/list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/list/list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/material-tabs/material-tabs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/material-tabs/material-tabs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/stepper/stepper.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/stepper/stepper.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/tree/tree.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/layout/tree/tree.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/material.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/material.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/material.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/navigation/menu/menu.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/navigation/menu/menu.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/navigation/sidenav/sidenav.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/navigation/sidenav/sidenav.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/navigation/toolbar/toolbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/navigation/toolbar/toolbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/bottom-sheet/bottom-sheet-example/bottom-sheet-example.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/bottom-sheet/bottom-sheet-example/bottom-sheet-example.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/bottom-sheet/bottom-sheet.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/bottom-sheet/bottom-sheet.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/dialog/dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/dialog/dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/material-tooltip/material-tooltip.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/material-tooltip/material-tooltip.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/snackbar/pizza-party.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/snackbar/snackbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/material/popups-and-modals/snackbar/snackbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/my-page/my-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/my-page/my-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/my-page/my-page.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/my-page/my-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/accordion/accordion.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/accordion/accordion.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/alert/alert.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/alert/alert.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/buttons/buttons.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/buttons/buttons.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/carousel/carousel.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/carousel/carousel.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/collapse/collapse.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/collapse/collapse.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/datepicker/datepicker.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/datepicker/datepicker.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/dropdown/dropdown.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/dropdown/dropdown.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/modal/modal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/modal/modal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/ngbootstrap.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/ngbootstrap.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/ngbootstrap.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/pagination/pagination.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/pagination/pagination.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/popover/popover.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/popover/popover.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/progressbar/progressbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/progressbar/progressbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/rating/rating.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/rating/rating.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/tabs/tabs.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/tabs/tabs.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/timepicker/timepicker.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/timepicker/timepicker.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/tooltip/tooltip.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/tooltip/tooltip.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/typehead/typehead.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/typehead/typehead.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/ngbootstrap/typehead/wikipedia.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/pages.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/roles/role-edit/role-edit.dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/roles/role-edit/role-edit.dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/roles/roles-list/roles-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/roles/roles-list/roles-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/user-management.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/user-management.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/user-management.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/address/address.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/address/address.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/change-password/change-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/change-password/change-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/social-networks/social-networks.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/social-networks/social-networks.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/user-roles/user-roles-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/_subs/user-roles/user-roles-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/user-edit/user-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/user-edit/user-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/users-list/users-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/user-management/users/users-list/users-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard1/wizard1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard1/wizard1.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard1/wizard1.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard1/wizard1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard2/wizard2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard2/wizard2.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard2/wizard2.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard2/wizard2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard3/wizard3.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard3/wizard3.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard3/wizard3.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard3/wizard3.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard4/wizard4.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard4/wizard4.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard4/wizard4.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/pages/wizard/wizard4/wizard4.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/action-natification/action-notification.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/action-natification/action-notification.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/alert/alert.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/alert/alert.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/delete-entity-dialog/delete-entity-dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/delete-entity-dialog/delete-entity-dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/fetch-entity-dialog/fetch-entity-dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/fetch-entity-dialog/fetch-entity-dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/update-status-dialog/update-status-dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/crud/update-status-dialog/update-status-dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/accordion-control/accordion-control.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/accordion-control/accordion-control.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/accordion-control/accordion-control.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/accordion-control/accordion-control.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/error/error.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/error/error.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/error/error.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/material-preview/material-preview.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/material-preview/material-preview.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/material-preview/material-preview.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/material-preview/material-preview.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/notice/notice.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/notice/notice.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet-body.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet-footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet-header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet-header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/general/portlet/portlet.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/general/data-table/data-table.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/general/data-table/data-table.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/general/data-table/data-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/general/data-table/data-table.data-source.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/timeline2/timeline2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/timeline2/timeline2.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/timeline2/timeline2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget1/widget1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget1/widget1.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget1/widget1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget12/widget12.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget12/widget12.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget12/widget12.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget14/widget14.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget14/widget14.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget14/widget14.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget26/widget26.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget26/widget26.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget26/widget26.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget4/widget4.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget4/widget4.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget4/widget4.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget5/widget5.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget5/widget5.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/content/widgets/widget5/widget5.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/context-menu/context-menu.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/context-menu/context-menu.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/context-menu/context-menu.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/context-menu2/context-menu2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/context-menu2/context-menu2.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/context-menu2/context-menu2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/quick-panel/quick-panel.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/quick-panel/quick-panel.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/quick-panel/quick-panel.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/scroll-top/scroll-top.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/scroll-top/scroll-top.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/search-result/search-result.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/search-result/search-result.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/search-result/search-result.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/splash-screen/splash-screen.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/splash-screen/splash-screen.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/splash-screen/splash-screen.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/sticky-toolbar/sticky-toolbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/sticky-toolbar/sticky-toolbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/sticky-toolbar/sticky-toolbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader-search/subheader-search.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader-search/subheader-search.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader-search/subheader-search.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader1/subheader1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader1/subheader1.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader1/subheader1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader2/subheader2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader2/subheader2.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader2/subheader2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader3/subheader3.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader3/subheader3.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader3/subheader3.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader4/subheader4.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader4/subheader4.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader4/subheader4.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader5/subheader5.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader5/subheader5.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/subheader/subheader5/subheader5.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/cart/cart.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/cart/cart.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/cart/cart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/language-selector/language-selector.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/language-selector/language-selector.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/notification/notification.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/notification/notification.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/notification/notification.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/quick-action/quick-action.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/quick-action/quick-action.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/search-default/search-default.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/search-default/search-default.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/search-dropdown/search-dropdown.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/search-dropdown/search-dropdown.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/user-profile/user-profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/user-profile/user-profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/user-profile2/user-profile2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/user-profile2/user-profile2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/user-profile3/user-profile3.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/layout/topbar/user-profile3/user-profile3.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/partials/partials.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/brand/brand.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo70/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo2/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo3/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/brand/brand.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/footer/footer.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo4/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo5/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo6/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo7/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/brand/brand.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/footer/footer.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo8/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/app/views/themes/demo9/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/default/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/skeleton/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/skeleton/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo70/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo70/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo70/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo2/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo2/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo2/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo3/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo3/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo3/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo4/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo4/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo4/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo5/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo5/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo5/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo6/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo6/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo6/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/menu.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/menu.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo8/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo8/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo8/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo9/layout.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo9/menu.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo9/page.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/brand/brand.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo70/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo2/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo3/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/brand/brand.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/footer/footer.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo4/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo5/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo6/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/brand/brand.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/footer/footer.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo8/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/aside/aside-left.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/aside/aside-left.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/aside/aside-left.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/base/base.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/base/base.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/base/base.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/brand/brand.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/brand/brand.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/builder/builder.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/builder/builder.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/builder/builder.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/builder/builder.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/error-page/error-page.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/error-page/error-page.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/content/error-page/error-page.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/header-mobile/header-mobile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/header-mobile/header-mobile.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/header-mobile/header-mobile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/header.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/menu-horizontal/menu-horizontal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/menu-horizontal/menu-horizontal.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/menu-horizontal/menu-horizontal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/topbar/topbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/topbar/topbar.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/header/topbar/topbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/html-class.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/pages-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/subheader/subheader.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/subheader/subheader.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo9/theme.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/skeleton/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/skeleton/src/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/tools/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/app-routing.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/skeleton/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/menu.config.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+              <folding>
+                <element signature="e#1498#1754#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>demo7</find>
+      <find>theme</find>
+      <find>scss</find>
+      <find>@</find>
+      <find>demo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dist/default/src/tslint.json" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/views/pages/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/dist/default/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/dist/default/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/brand/brand.component.html" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.html" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/index.html" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.ts" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/menu.config.ts" />
+        <option value="$PROJECT_DIR$/dist/skeleton/src/app/app.module.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1680" />
+    <option name="width" value="954" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AngularEnterpriseTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularEnterpriseTemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularEnterpriseTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularEnterpriseTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularEnterpriseTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularEnterpriseTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularEnterpriseTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularEnterpriseTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/dist/skeleton/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/skeleton/src/app/core/_config" />
+      <recent name="$PROJECT_DIR$/dist/skeleton/src/app/views/themes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c66be78-5b18-42c1-8fc3-44f93cd8e839" name="Default Changelist" comment="" />
+      <created>1565584490433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565584490433</updated>
+      <workItem from="1565584491602" duration="1497000" />
+      <workItem from="1565946869349" duration="904000" />
+      <workItem from="1566169324242" duration="6102000" />
+      <workItem from="1566175891438" duration="2260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10763000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985591" visible="true" weight="0.2603834" />
+      <window_info id="Structure" order="1" sideWeight="0.50144094" side_tool="true" weight="0.2518637" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.38732395" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32944345" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/default/src/test.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/pages/dashboard/dashboard.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/pages/dashboard/dashboard.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/partials/layout/topbar/cart/cart.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/core/reducers/index.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/core/e-commerce/_actions/customer.actions.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/pages/auth/auth.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/pages/dashboard/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/theme.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2691">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding>
+            <element signature="e#67#108#0" expanded="true" />
+            <element signature="e#970#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/default/package.json" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.component.scss" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.module.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.component.html" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/views/pages/dashboard/dashboard.component.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/default/src/app/app-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/base/base.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/core/_config/layout.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/pages/auth/auth.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/pages/auth/auth.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/brand/brand.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/base/base.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/brand/brand.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#87#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/content/builder/builder.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="4" column="70" lean-forward="true" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/core/_config/menu.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="65" column="63" selection-start-line="65" selection-start-column="63" selection-end-line="65" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/views/themes/demo7/base/base.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/core/_config/demo7/menu.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/skeleton/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+          <folding>
+            <element signature="e#1498#1754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
